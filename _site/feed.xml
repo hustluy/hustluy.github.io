@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hustluy blog</title>
+    <description>记录&amp;分享我的user-profile重构过程</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 01 Jan 2018 20:12:00 +0800</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2018 20:12:00 +0800</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Hello 2018</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Yes, I just came!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;今天开通了自己的git博客，以后就在这里记录自己的技术成长了。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jan 2018 04:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/12/31/hello-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/31/hello-2018/</guid>
+        
+        <category>生活</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

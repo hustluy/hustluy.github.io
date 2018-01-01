@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Hello 2018"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2017-12-31 20:00:00
+author:     "luy"
+header-img: "img/hello-2018.png"
+catalog: true
+tags:
+    - 生活
+---
+
+> Yes, I just came!
+
+今天开通了自己的git博客，以后就在这里记录自己的技术成长了。
